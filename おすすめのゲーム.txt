@@ -2,8 +2,5 @@
 VALORANT
 HALO_infinite
 原神
-<<<<<<< HEAD
 ゼノブレイド2
-=======
 Timberborn
->>>>>>> 328d72ac0587ec2a1ba4852e07b9d8b417eec838
