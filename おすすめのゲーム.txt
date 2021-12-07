@@ -1,6 +1,7 @@
 ファイナルファンタジー
 VALORANT
 HALO_infinite
+原神
 <<<<<<< HEAD
 ゼノブレイド2
 =======
