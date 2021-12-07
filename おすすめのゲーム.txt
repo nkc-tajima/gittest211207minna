@@ -4,3 +4,4 @@ HALO_infinite
 原神
 ゼノブレイド2
 Timberborn
+apex
